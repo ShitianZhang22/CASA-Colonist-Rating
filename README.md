@@ -8,7 +8,7 @@ See [main.ipynb](main.ipynb) for the code and results.
 
 ## Latest Results
 
-Until: 6 March 2026
+Until: 13 March 2026
 
 | Rank | Player | Rating | Uncertainty |
 | --- | --- | --- | --- |
