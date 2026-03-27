@@ -8,16 +8,16 @@ See [main.ipynb](main.ipynb) for the code and results.
 
 ## Latest Results
 
-Until: 20 March 2026
+Until: 27 March 2026
 
 | Rank | Player | Rating | Uncertainty |
 | --- | --- | --- | --- |
-|1 | Roei | 28.12 | 2.46 |
-|2 | Shitian | 25.42 | 2.45 |
-|3 | Willow | 21.83 | 2.45 |
-|4 | Claude | 20.26 | 3.04 |
-|5 | Matt | 18.36 | 2.32 |
-|6 | Tom | 17.66 | 5.99 |
+|1 | Roei | 28.91 | 4.27 |
+|2 | Shitian | 28.45 | 4.55 |
+|3 | Willow | 24.29 | 4.36 |
+|4 | Claude | 24.09 | 5.20 |
+|5 | Tom | 19.62 | 6.63 |
+|6 | Matt | 19.37 | 4.23 |
 
 ## Setup
 
