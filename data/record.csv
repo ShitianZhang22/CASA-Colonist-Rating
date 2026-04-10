@@ -51,3 +51,13 @@ week,win,lose,draw
 7,Willow,Matt,False
 7,Willow,Tom,False
 7,Matt,Tom,False
+8,Matt,Roei,False
+8,Matt,Shitian,False
+8,Matt,Willow,False
+8,Matt,Claude,False
+8,Roei,Shitian,False
+8,Roei,Willow,False
+8,Roei,Claude,False
+8,Shitian,Willow,True
+8,Shitian,Claude,False
+8,Willow,Claude,False
