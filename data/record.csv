@@ -76,3 +76,9 @@ week,win,lose,draw
 9,Matt,Roei,False
 9,Matt,Miao,False
 9,Roei,Miao,True
+10,Roei,Shitian,False
+10,Roei,Claude,False
+10,Roei,Miao,False
+10,Shitian,Claude,True
+10,Shitian,Miao,False
+10,Claude,Miao,False

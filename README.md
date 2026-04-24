@@ -10,15 +10,15 @@ See [main.ipynb](main.ipynb) for the code and results.
 
 Until: 17 April 2026
 
-| Rank | Player | ID | Rating | Uncertainty |
+| Rank | Player | ID | Skill Rating | Uncertainty |
 | --- | --- | --- | --- | --- |
-|1 | Roei | Nuzzi1445 | 26.90 | 3.62 |
-|2 | Shitian | RobotZhang | 26.90 | 3.80 |
+|1 | Roei | Nuzzi1445 | 27.89 | 3.44 |
+|2 | Shitian | RobotZhang | 26.39 | 3.52 |
 |3 | Willow | Linoel4818 | 25.52 | 3.69 |
-|4 | Claude | siskiUmax | 23.60 | 4.24 |
+|4 | Claude | siskiUmax | 23.81 | 3.87 |
 |5 | Matt | Reniti9594 | 22.07 | 3.61 |
-|6 | Miao | Hersch0784 | 21.86 | 6.69 |
-|7 | Tom | Bitbat93 | 19.62 | 6.63 |
+|6 | Tom | Bitbat93 | 19.62 | 6.63 |
+|7 | Miao | Hersch0784 | 19.47 | 5.85 |
 
 ## Setup
 
