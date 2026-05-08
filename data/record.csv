@@ -92,3 +92,9 @@ week,win,lose,draw
 11,Roei,Matt,True
 11,Roei,Miao,True
 11,Matt,Miao,True
+12,Roei,Matt,False
+12,Roei,Shitian,False
+12,Roei,Tom,False
+12,Matt,Shitian,False
+12,Matt,Tom,False
+12,Shitian,Tom,True
