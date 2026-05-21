@@ -98,3 +98,9 @@ week,win,lose,draw
 12,Matt,Shitian,False
 12,Matt,Tom,False
 12,Shitian,Tom,True
+13,Roei,Shitian,False
+13,Roei,Claude,False
+13,Roei,Tom,False
+13,Shitian,Claude,False
+13,Shitian,Tom,False
+13,Claude,Tom,False
