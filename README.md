@@ -10,7 +10,7 @@ See [main.ipynb](main.ipynb) for the code and results.
 
 Until: 15 May 2026
 
-|ID     |Skill_μ   |Skill_σ           |Raw_Rating        |Attendance_Multiplier|Final_Rating|
+|ID     |Skill μ   |Skill σ           |Raw Rating        |Attendance Multiplier|Final Rating|
 |-------|----------|------------------|------------------|---------------------|------------|
 |Nuzzi1445|27.944    |2.915             |19.199            |1.0                  |19.199      |
 |RobotZhang|26.011    |2.965             |17.116            |1.0                  |17.116      |
