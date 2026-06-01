@@ -132,3 +132,13 @@ week,win,lose,draw
 14,Hersch0784,RobotZhang,True
 14,Hersch0784,Nuzzi1445,False
 14,RobotZhang,Nuzzi1445,False
+15,Nuzzi1445,Reniti9594,False
+15,Nuzzi1445,siskiUmax,False
+15,Nuzzi1445,Clay6603,False
+15,Nuzzi1445,Bitbat93,False
+15,Reniti9594,siskiUmax,True
+15,Reniti9594,Clay6603,False
+15,Reniti9594,Bitbat93,False
+15,siskiUmax,Clay6603,False
+15,siskiUmax,Bitbat93,False
+15,Clay6603,Bitbat93,False
