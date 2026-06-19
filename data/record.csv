@@ -178,3 +178,9 @@ week,win,lose,draw
 17,Nuzzi1445,Linoel4818,False
 17,Nuzzi1445,Clay6603,False
 17,Linoel4818,Clay6603,False
+18,Linoel4818,Nuzzi1445,False
+18,Linoel4818,siskiUmax,False
+18,Nuzzi1445,siskiUmax,False
+18,RobotZhang,Bitbat93,False
+18,RobotZhang,Hersch0784,False
+18,Bitbat93,Hersch0784,True
