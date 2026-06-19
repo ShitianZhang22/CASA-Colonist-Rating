@@ -24,7 +24,8 @@ Until: 19 June 2026
 # History
 
 ![Player Ranking History](data/ranking_history.png)
-![Player Rating History](data/rating_history.png)
+![Final Rating History](data/rating_history.png)
+![Raw Rating History](data/raw_history.png)
 
 # Calculation Method
 
