@@ -184,3 +184,9 @@ week,win,lose,draw
 18,RobotZhang,Bitbat93,False
 18,RobotZhang,Hersch0784,False
 18,Bitbat93,Hersch0784,True
+19,Nuzzi1445,siskiUmax,False
+19,Nuzzi1445,RobotZhang,False
+19,Nuzzi1445,Bitbat93,False
+19,siskiUmax,RobotZhang,False
+19,siskiUmax,Bitbat93,False
+19,RobotZhang,Bitbat93,True
